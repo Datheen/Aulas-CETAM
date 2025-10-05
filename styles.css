@@ -33,6 +33,7 @@ header {
     box-shadow: 0 0 35px rgba(0, 0, 0, 0.5);
     padding: 10px 20px;
     border: 3px solid rgb(31, 85, 235);
+    position: fixed;
 }
 
 ul {
@@ -73,6 +74,7 @@ a {
     justify-content: center;
     align-items: center;
     color: white;
+    margin-top: 100px;
 
 }
 
@@ -85,6 +87,7 @@ a {
     justify-content: center;
     align-items: center;
     color: white;
+    margin-top: 100px;
 }
 
 .item3 {
@@ -164,4 +167,5 @@ footer {
     z-index: 10;
     position: absolute;
     margin-left: 55px;
+
 }
